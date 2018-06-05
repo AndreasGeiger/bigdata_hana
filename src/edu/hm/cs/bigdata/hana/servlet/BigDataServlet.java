@@ -55,7 +55,6 @@ public class BigDataServlet extends HttpServlet {
     
     /**
      * Handle HTTP POST requests
-     * Delete all data in the table 'BIG_DATA'
      * Generate a random data set and save it to the database
      * Refresh the user interface with the current data
      */
